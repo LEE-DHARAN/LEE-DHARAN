@@ -29,6 +29,8 @@ class Developer:
 
 ---
 
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEE-DHARAN&show_icons=true&theme=radical)](https://github.com/LEE-DHARAN)
+
 ### **💼 Professional Journey**  
 #### **🔹 Data Engineer** @ [StaidLogic](https://staidlogic.com) *(Apr 2025 - Present)*  
 - Building scalable data pipelines and APIs.  
