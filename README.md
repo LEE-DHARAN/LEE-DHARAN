@@ -78,7 +78,18 @@ class Developer:
 
 ### **📚 Education & Certifications**  
 - **B.E. in Electrical Engineering** @ Velammal Engineering College *(2012-2016)*  
-- **Certifications**: Node.js (GUVI), React.js (GUVI), Business English (British Council)  
+- **Certifications**: Node.js (GUVI), React.js (GUVI), Business English (British Council)
+
+
+📈 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEE-DHARAN&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-DHARAN&layout=compact&theme=radical" /> </div>
+
+
+🌐 Let’s Connect
+LinkedIn
+Email
+
+
 
 ---
 
