@@ -6,11 +6,11 @@
 class Developer:
     def __init__(self):
         self.name = "Murali Dharan"
-        self.roles = ["Data Engineer", "Full-Stack Developer"]
+        self.roles = ["Full-Stack Developer"]
         self.tech_stack = {
             "Frontend": ["React", "Redux", "HTML/CSS"],
             "Backend": ["Node.js", "Django", "API Design"],
-            "Databases": ["PostgreSQL", "MySQL", "MongoDB"],
+            "Databases": ["MySQL", "MongoDB","PostgreSQL",],
             "DevOps": ["Heroku", "AWS", "Docker"]
         }
         self.passions = ["Mentorship", "Problem-Solving", "Restaurant Entrepreneurship"]
@@ -30,7 +30,7 @@ class Developer:
 ---
 
 ### **💼 Professional Journey**  
-#### **🔹 Data Engineer** @ [StaidLogic](https://staidlogic.com) *(Apr 2025 - Present)*  
+#### **🔹 Full-stack Developer** @ [StaidLogic](https://staidlogic.com) *(Apr 2025 - Present)*  
 - Building scalable data pipelines and APIs.  
 
 #### **🔹 Full-Stack Developer** @ [GUVI](https://www.guvi.in) *(Sep 2024 - Apr 2025)*  
