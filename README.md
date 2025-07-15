@@ -80,12 +80,6 @@ class Developer:
   
 ---
 
-📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEE-DHARAN&show_icons=true&theme=radical&v=2" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-DHARAN&layout=compact&theme=radical&v=2" />
- </div>
-
----
 
 🌐 Let’s Connect
 LinkedIn:https://www.linkedin.com/in/murali-dharan-801803108/
