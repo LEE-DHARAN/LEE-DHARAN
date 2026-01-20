@@ -9,9 +9,9 @@ class Developer:
         self.roles = ["Full-Stack Developer"]
         self.tech_stack = {
             "Frontend": ["React", "Redux", "HTML/CSS"],
-            "Backend": ["Node.js", "Django", "API Design"],
+            "Backend": ["Python" "Node.js", "Django", "API Design"],
             "Databases": ["MySQL", "MongoDB","PostgreSQL",],
-            "DevOps": ["Heroku", "AWS", "Docker"]
+            "DevOps": ["AWS", "Docker"]
         }
         self.passions = ["Mentorship", "Problem-Solving", "Restaurant Entrepreneurship"]
 ```
@@ -19,12 +19,12 @@ class Developer:
 ---
 
 ### **🛠️ Core Skills**  
-| **Domain**       | **Technologies**                                                                 |
-|------------------|---------------------------------------------------------------------------------|
-| **Frontend**     | React, Redux, TailwindCSS                                                      |
-| **Backend**      | Node.js, Django, REST APIs                                                    |
+| **Domain**       | **Technologies**                                                              |
+|------------------|-------------------------------------------------------------------------------|
+| **Frontend**     | React, Redux, TailwindCSS                                                     |
+| **Backend**      | Python, Node.js, Django, REST APIs                                            |
 | **Databases**    | PostgreSQL, MySQL, MongoDB                                                    |
-| **DevOps**       | AWS, Docker, Heroku                                                           |
+| **DevOps**       | AWS, Docker                                                                   |
 | **Leadership**   | Team Management, Agile Methodologies, Mentorship                              |
 
 ---
