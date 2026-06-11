@@ -36,11 +36,10 @@ class Developer:
 #### **🔹 Full-Stack Developer** @ [GUVI](https://www.guvi.in) *(Sep 2024 - Apr 2025)*  
 - Designed and deployed full-stack applications with React + Node.js.  
 
-#### **🔹 Entrepreneur** @ Norukku Theeni Restaurant *(Aug 2022 - Sep 2024)*  
+#### **🔹 Entrepreneur** @ Norukku Theeni Restaurant *(Oct 2016 - Sep 2024)*  
 - Led a team of 4, managed logistics, and optimized revenue growth.  
 
-#### **🔹 System Engineer** @ HCL Technologies *(Aug 2016 - Sep 2017)*  
-- Developed enterprise web apps with ASP.NET MVC (100% SLA compliance).  
+
 
 ---
 
